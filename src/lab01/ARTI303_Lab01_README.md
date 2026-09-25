@@ -2,8 +2,8 @@
 **ARTI 303 — Programming for AI** · Week 1
 
 ## What's in this folder
-- `README.md` — this file: setup, workflow, submission
-- [lab01.ipynb](./ARTI303_Lab01_Starter.ipynb) — the actual lab content (Part B and Part C). Open this once your environment is working.
+- `../../README.md` — this file: setup, workflow, submission
+- [lab01.ipynb](ARTI303_Lab01_Starter.ipynb) — the actual lab content (Part B and Part C). Open this once your environment is working.
 
 ## What you'll do this session
 - Install a Python toolchain (Python, VS Code, Git, Jupyter) with Google Colab as a no-install fallback
@@ -86,8 +86,8 @@ git push -u origin lab01
 Open a pull request `lab01 → main` on GitHub, then paste the PR link where your instructor asks for it.
 
 **Checklist**
-- [ ] `src/`, `notebooks/`, `docs/`, `requirements.txt`, `.gitignore`, `README.md` all present
-- [ ] `README.md` has your name, student ID, section
+- [ ] `..`, `notebooks/`, `docs/`, `requirements.txt`, `.gitignore`, `README.md` all present
+- [ ] `../../README.md` has your name, student ID, section
 - [ ] `notebooks/lab01.ipynb` runs top to bottom, all self-checks pass
 - [ ] `docs/ai-log.md` has at least one entry
 - [ ] `kaggle.json` is **not** tracked (`git status` should not show it)
