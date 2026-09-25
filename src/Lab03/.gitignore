@@ -1,0 +1,5 @@
+# TODO: add the patterns
+logs/
+.venv/
+kaggle.json
+__pycache__/
