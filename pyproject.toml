@@ -3,8 +3,9 @@ name = "programing-for-ai-arti303-labs"
 version = "0.1.0"
 requires-python = ">=3.13"
 dependencies = [
-    "ipykernel>=7.3.0",
+    "ipykernel==7.4.0",
     "numpy>=2.5.3",
+    "pandas==3.0.6",
     "pip==26.2.1",
     "pytest>=9.1.1",
 ]
