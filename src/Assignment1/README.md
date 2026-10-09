@@ -10,12 +10,12 @@ The goal of this assignment is to compare **Pandas** with another Python data-pr
 
 | Name | Student ID | Role |
 |---|---|---|
-| Member 1 | XXXXXXXX | Leader |
-| Member 2 | XXXXXXXX | Member |
-| Member 3 | XXXXXXXX | Member |
-| Member 4 | XXXXXXXX | Member |
-| Member 5 | XXXXXXXX | Member |
-| Member 6 | XXXXXXXX | XXX |
+| Mohammed Amin Mansour Ali | 2250009162 | Leader |
+| Mohammed Khalil Alkhalil | 2250006259 | Member |
+| Faris Othman Alghamdi | 2250004271 | Member |
+| Ibrahim Abdulrahman Alzahrani | 2250006142 | Member |
+| Battal Abdulaziz Alamri  | 2250007201 | Member |
+| Abdulaziz Hany Abdulmajeed | 2250006086 | Member |
 
 > Remove any unused member row if your group has fewer than 6 members.
 
@@ -91,7 +91,7 @@ A recommended repository structure is:
 
 The repository must be **public** so that the submitted link can be opened without requiring a login.
 
-**Repository:** [Add your GitHub repository link here](YOUR_GITHUB_REPOSITORY_LINK)
+**Repository:** [GitHub repository link](https://github.com/Mohammed-Khalil-Dev/Programing-For-Ai-ARTI303-Labs.git)
 
 ## Submission
 
