@@ -30,7 +30,7 @@ The group must choose **one public dataset** that meets all of the following req
 
 ### Dataset Link
 
-[Add your dataset link here](YOUR_DATASET_LINK)
+[Student Academic Performance & Dropout Risk dataset Link](https://www.kaggle.com/datasets/mohankrishnathalla/student-academic-performance-and-dropout-risk)
 
 ##  Requirements
 
@@ -112,7 +112,7 @@ The Word document must contain the following, **in this exact order**:
 - The repository link must open without requiring a login.
 - If the dataset is larger than approximately **50 MB**, **do not commit the dataset to the repository**.
 - For datasets larger than approximately 50 MB:
-  - Add the dataset to `.gitignore`.
+  - Add the dataset to `../../.gitignore`.
   - Include the dataset download link in the Word submission document.
 
 Wishing you all the best!
