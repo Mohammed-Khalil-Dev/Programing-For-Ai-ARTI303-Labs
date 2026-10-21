@@ -10,6 +10,7 @@ Lab material for ARTI 303. Each folder contains a `README.md` and a notebook for
 This lab teaching Python programming in the context of AI development — data handling, NumPy, Pandas, PyTorch, computer vision, NLP, sequential data, and modern AI tooling. No model training; the focus is on writing clean, reproducible, well-tested code that works with AI systems.
 
 ## Labs
+
 | Lab | Topic | Week |
 |---|---|---|
 | [lab1](./src/Lab1) | Building Your AI Development Environment | 1 |
