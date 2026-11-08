@@ -23,9 +23,9 @@ This lab teaching Python programming in the context of AI development — data h
 | [lab8](src/lab8) | Programming with AI Frameworks | 8 |
 | [lab9](src/Lab9/) | Computer Vision Programming | 9 |
 | [lab10](src/Lab10) | Natural Language Programming | 10 |
-| [lab11](lab11.ipynb) | Programming with Sequential Data | 11 
-| [lab12](lab12.ipynb) | Modern AI Development | 12 |
-| [lab13](./lab13) | Project Workshop | 13 |
+| [lab11](src/Lab11) | Programming with Sequential Data | 11 
+| [lab12](src/Lab12) | Modern AI Development | 12 |
+| [lab13](src/Lab13) | Project Workshop | 13 |
 
 
 ## How to use this repo
